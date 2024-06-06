@@ -1,0 +1,15 @@
+{
+  "users" : [ {
+    "id" : "1245",
+    "username" : "juandu",
+    "password" : "$2a$10$WpMnXYy5yTxivC4.XXVNVujIU/eUVRnhyyVoShSvbowbGcarCWCQW"
+  }, {
+    "id" : "12345678",
+    "username" : "pau",
+    "password" : "$2a$10$B0apkMFjskoLLxQMeCENQOWkCoJeErnGCg.LtcgOaj6GM7tGB0JUG"
+  }, {
+    "id" : "23498241",
+    "username" : "melissa",
+    "password" : "$2a$10$22OSDRbB0tmtXHBQM0dd7.yBnazj2MJswgKF81TdLsDzJ5blGrifC"
+  } ]
+}
